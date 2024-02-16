@@ -1,0 +1,13 @@
+#submit_button
+{
+    font-size: 1em;
+    padding: 5px 10px;
+    margin-left: 10px;
+    color: aqua;
+    background-color: rgb(43, 109, 109);
+}
+.label_tag
+{
+    font-size: 20px;
+    padding-left: 10px;
+}

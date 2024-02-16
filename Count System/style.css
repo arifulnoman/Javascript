@@ -1,0 +1,26 @@
+#label_count
+{
+    display: block;
+    text-align: center;
+    font-size: 80px;
+    font-family: Helvetica;
+}
+#btnContainer
+{
+    text-align: center;
+    margin: 10px;
+}
+.button
+{
+    font-size: 15px;
+    padding: 10px 15px;
+    border-radius: 3px;
+    margin: 5px 10px;
+    background-color: rgb(140, 190, 190);
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
+.button:hover
+{
+    background-color: rgb(59, 146, 146);
+}
