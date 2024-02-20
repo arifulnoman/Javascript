@@ -1,5 +1,6 @@
 #number_input
 {
+    background-color: rgb(49, 8, 49);
     height: 50px;
     width: 100px;
     font-size: 50px;
@@ -8,8 +9,10 @@
 }
 #container
 {
+    padding: 20px;
     text-align: center;
     margin: 12%;
+    background-color: violet;
 }
 body
 {
