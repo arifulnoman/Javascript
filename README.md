@@ -6,4 +6,8 @@
         <h2>Number Guessing Game</h2>
         <img src="https://github.com/arifulnoman/Javascript/blob/main/Screenshots/Number_Guessing_Game.JPG">
     </li>
+    <li>
+        <h2>Weather App</h2>
+        <img src="https://github.com/arifulnoman/Javascript/blob/main/Screenshots/Weather_app(2).JPG">
+    </li>
 </ul>
